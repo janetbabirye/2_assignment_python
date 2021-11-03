@@ -1,2 +1,0 @@
-- # open in visual studio code
--  ‪C:\Users\JANET\Desktop\listdictionary.py
